@@ -1,0 +1,19 @@
+.container{
+    width: 660px;
+    height: 80vh;
+    background-color: antiquewhite;
+    
+    
+}
+
+.detalhe-prancheta{
+    position: relative;
+    top: -60px;
+    left: calc(50% - 123.5px);
+}
+
+.content{
+    width: 100%;
+    height: 100%;
+    border: 40px solid var(--blue900);
+}
